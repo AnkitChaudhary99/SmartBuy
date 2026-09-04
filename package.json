@@ -1,5 +1,5 @@
 {
-  "name": "price_tracker",
+  "name": "smartbuy",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,10 +12,12 @@
     "@headlessui/react": "^1.7.18",
     "@types/nodemailer": "^6.4.14",
     "axios": "^1.6.5",
+    "bcryptjs": "^3.0.3",
     "cheerio": "^1.0.0-rc.12",
     "mongoose": "^8.2.0",
     "next": "14.0.4",
-    "nodemailer": "^6.9.11",
+    "next-auth": "^4.24.15",
+    "nodemailer": "^7.0.13",
     "react": "^18",
     "react-dom": "^18",
     "react-responsive-carousel": "^3.2.23"
